@@ -1,11 +1,11 @@
-# Power BI Dashboard: Indian Premier League (IPL) Analysis
+# Power BI Dashboard: Indian Premier League (IPL) Analysis 🏏
 
-## Overview
+## 📌 Overview
 This repository contains a Power BI dashboard that provides an in-depth analysis of the Indian Premier League (IPL), 
 
 offering insights into team performance, player statistics, match outcomes, and historical trends.
 
-## Key Features
+## 📊 Key Features
 ✅ Team & Player Performance: Win percentages, top scorers, and wicket-takers.
 ✅ Match Insights: Head-to-head comparisons, venue-based performance, and match outcomes.
 ✅ Historical Trends: Season-wise analysis and key patterns in IPL history.
